@@ -1,0 +1,13 @@
+# Compiled binaries (built via the "clang++ build active file" task)
+algorithms/binarysearch
+algorithms/mergesort
+
+# Debug symbol bundles
+*.dSYM/
+
+# Object files
+*.o
+*.out
+
+# macOS
+.DS_Store
