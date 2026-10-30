@@ -1,6 +1,6 @@
 # Compiled binaries (built via the "clang++ build active file" task)
-algorithms/binarysearch
-algorithms/mergesort
+cpp/binarysearch
+cpp/mergesort
 
 # Debug symbol bundles
 *.dSYM/
